@@ -6,6 +6,8 @@ var side = function(){
 
           if (q ===p && p === r && r === q) {
             alert("An Equilateral Triangle");
+
+            
         }
           else if (q === p || q === r || p === r ) {
             alert("An Isosceles Triangle");
