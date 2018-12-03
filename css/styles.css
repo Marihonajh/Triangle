@@ -3,6 +3,7 @@ body {
   border-style: pink solid;
   position: static;
   background-color: inherit;
+  padding: 20px;
 }
 
 h1 {
@@ -36,9 +37,7 @@ input type="submit" {
   font-size: 20;
   border-radius: 5px;
   border: none;
-  font-f
-
-  amily: 'monteserrat' sans-serif;
+  font-family: 'monteserrat' sans-serif;
 
 }
 input[type="submit"] {
