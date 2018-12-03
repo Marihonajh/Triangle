@@ -1,9 +1,9 @@
 var side = function(){
 
       var q = document.getElementById("one").value;
-      var p = document.getElementById("two").value;
 
       
+      var p = document.getElementById("two").value;
       var r = document.getElementById("three").value;
 
           if (q ===p && p === r && r === q) {
