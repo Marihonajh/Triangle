@@ -11,6 +11,8 @@ h1 {
   color: steelblue;
   text-align: center;
   font-weight: 400;
+
+  
 }
 
 form {
@@ -26,8 +28,6 @@ input {
        background-position:
        font-family :serif;
 }
-
-
 
 input type="submit" {
   color: #521751;
