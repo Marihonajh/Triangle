@@ -1,6 +1,4 @@
-v
-
-ar side = function(){
+var side = function(){
 
       var q = document.getElementById("one").value;
       var p = document.getElementById("two").value;

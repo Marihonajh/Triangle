@@ -2,23 +2,16 @@ body {
   background-color: #e8f3f8;
   border-style: pink solid;
   position: static;
-  background-color: inherit;
-  padding: 20px;
-
-
-
-
-  
+  background-color:#e8f3f8;
+  text-align: center;
 }
-
 h1 {
   font-family: serif;
   font-size: 51px;
   color: steelblue;
   text-align: center;
   font-weight: 400;
-
-
+  background-image: url("https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&h=350");
 }
 
 form {
@@ -27,14 +20,13 @@ form {
    margin: 20px;
    text-align: center;
 }
-
 input {
        padding: 12px;
        font-size: inherit;
        background-position:
        font-family :serif;
+       border-radius: 50px
 }
-
 input type="submit" {
   color: #521751;
   padding: 20 30;
@@ -48,8 +40,6 @@ input type="submit" {
 input[type="submit"] {
   padding: 20 30;
 }
-
-
 p {
   color: black;
   font-style: oblique;
@@ -58,4 +48,20 @@ p {
 }
 .container {
   font-family: monospace;
+  backface-visibility: visible;
+  background-image: url("https://images.pexels.com/photos/963063/pexels-photo-963063.jpeg?auto=compress&cs=tinysrgb&h=350");
+}
+button {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: fantasy;
+  text-align: justify;
+  vertical-align: baseline;
+  text-align: center;
+}
+.rebesha{
+  background-color: blue;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 20px;
 }
