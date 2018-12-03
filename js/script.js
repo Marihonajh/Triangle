@@ -11,9 +11,6 @@ var side = function(){
             alert("An Isosceles Triangle");
         }
         else if (q !== p || p !== r || q !== r ) {
-
-
-          
           alert("A Scalene Triangle");
         }
         else if ((q+p)<=r || (q+r)<=p || (p+r)<=q) {
