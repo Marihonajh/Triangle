@@ -27,7 +27,6 @@ input {
        font-family :serif;
 }
 
-
 input type="submit" {
   color: #521751;
   padding: 20 30;
@@ -41,7 +40,6 @@ input type="submit" {
 input[type="submit"] {
   padding: 20 30;
 }
-<<<<<<< HEAD
 p {
   color: black;
   font-style: oblique;
@@ -51,5 +49,3 @@ p {
 .container {
   font-family: monospace;
 }
-=======
->>>>>>> 5a8e837d10973038153ef2bae21ef57deb7238f5
