@@ -18,8 +18,6 @@ form {
    width: 350px;
    margin: 20px;
    text-align: center;
-
-   
 }
 
 input {
@@ -28,6 +26,8 @@ input {
        background-position:
        font-family :serif;
 }
+
+
 
 input type="submit" {
   color: #521751;
