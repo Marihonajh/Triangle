@@ -20,13 +20,14 @@ form {
    text-align: center;
 }
 
-
 input {
        padding: 12px;
        font-size: inherit;
        background-position:
        font-family :serif;
 }
+
+
 input type="submit" {
   color: #521751;
   padding: 20 30;
