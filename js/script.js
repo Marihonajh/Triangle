@@ -1,6 +1,6 @@
-var side =
+v
 
- function(){
+ar side = function(){
 
       var q = document.getElementById("one").value;
       var p = document.getElementById("two").value;
