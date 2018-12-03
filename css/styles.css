@@ -32,13 +32,13 @@ input {
 input type="submit" {
   color: #521751;
   padding: 20 30;
-  background-color: #3449
-
-  5e;
+  background-color: #34495e;
   font-size: 20;
   border-radius: 5px;
   border: none;
-  font-family: 'monteserrat' sans-serif;
+  font-f
+
+  amily: 'monteserrat' sans-serif;
 
 }
 input[type="submit"] {
