@@ -42,13 +42,13 @@ input type="submit" {
 input[type="submit"] {
   padding: 20 30;
 }
+
+
 p {
   color: black;
   font-style: oblique;
   font-size: 20px;
   font-weight: bolder;
-
-  
 }
 .container {
   font-family: monospace;
