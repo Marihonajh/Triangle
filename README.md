@@ -12,6 +12,7 @@ Triangle tracker is an application that input data of only numerical value and i
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL you copied in Step 2.
 7. Press Enter. Your local clone will be created.
+
 #DDB
 1. if a user inputs same numerical values in side A,side B and side C the outcome alert will be a Equilateral triangle.
 2. If he/she puts same numerical value to either sides the output results will alert an Isosceles triangle.
