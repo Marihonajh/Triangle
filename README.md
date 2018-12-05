@@ -9,13 +9,13 @@ Joel Mackenzie
 Triangle tracker is an application that input data of only numerical value and its output is an alert that shows at users browser that its either an Equilateral triangle or An Isosceles Triangle or a Scalene triangle or else displays Not a Triangle when meets the condition set behind on my javascript.
 
 ## setup instructions
-1On GitHub, navigate to the main page of the repository.
-2Under the repository name, click Clone or download.
-3In the Clone with HTTPs section, click  to copy the clone URL for the repository.
-4Open Terminal.
-5Change the current working directory to the location where you want the cloned directory to be made.
-6Type git clone, and then paste the URL you copied in Step 2.
-7Press Enter. Your local clone will be created.
+1. On GitHub, navigate to the main page of the repository.
+2. Under the repository name, click Clone or download.
+3. In the Clone with HTTPs section, click  to copy the clone URL for the repository.
+4. Open Terminal.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL you copied in Step 2.
+7. Press Enter. Your local clone will be created.
 
 ## Author information
 
