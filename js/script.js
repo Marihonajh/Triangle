@@ -13,7 +13,8 @@ var side = function(){
         else if (q !== p || p !== r || q !== r ) {
           alert("A Scalene Triangle");
         }
-        else if ((q+p)<=r || (q+r)<=p || (p+r)<=q) {
+        
+        else  {
               alert("Not a triangle");
       }
     };
