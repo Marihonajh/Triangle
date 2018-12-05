@@ -1,20 +1,22 @@
 var side = function(){
 
-      var q = document.getElementById("one").value;
-      var p = document.getElementById("two").value;
-      var r = document.getElementById("three").value;
-
-          if (q ===p && p === r && r === q) {
+      var q = document.getElementById("p").value;
+      var p = document.getElementById("q").value;
+      var r = document.getElementById("r").value;
+      
+         if (p+q<=r ||q+r <=p||p+r <= q) {
+           alert("Not a triangle");
+         }
+          else if (q ===p && p === r && r === q) {
             alert("An Equilateral Triangle");
         }
           else if (q === p || q === r || p === r ) {
             alert("An Isosceles Triangle");
         }
-        else if (q !== p || p !== r || q !== r ) {
+        else if (p+q >=r ||q+r>=p||p+r>=q) {
           alert("A Scalene Triangle");
         }
-        
-        else  {
-              alert("Not a triangle");
+        else{
+              alert("Enter a number");
       }
-    };
+    }
