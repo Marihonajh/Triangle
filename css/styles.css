@@ -1,4 +1,4 @@
-body {
+gibody {
   background-color: #e8f3f8;
   border-style: pink solid;
   position: static;
@@ -42,10 +42,11 @@ input[type="submit"] {
   padding: 20 30;
 }
 p {
-  color: black;
-  font-style: oblique;
+  color: white;
+  font-style: italic;
   font-size: 20px;
   font-weight: bolder;
+
 }
 .container {
   font-family: monospace;
