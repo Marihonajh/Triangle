@@ -3,7 +3,7 @@ var side = function(){
       var q = document.getElementById("p").value;
       var p = document.getElementById("q").value;
       var r = document.getElementById("r").value;
-      
+
          if (p+q<=r ||q+r <=p||p+r <= q) {
            alert("Not a triangle");
          }
